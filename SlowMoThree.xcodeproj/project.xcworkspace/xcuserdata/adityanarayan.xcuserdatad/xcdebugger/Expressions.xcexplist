@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[CollectionViewController viewDidLoad]:CollectionViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController switchFormatWithDesiredFPS:]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.videoDevice.activeFormat">
+            </PersistentString>
+            <PersistentString
+               value = "desiredFPS">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CollectionViewController collectionView:cellForItemAtIndexPath:]:CollectionViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.item">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
